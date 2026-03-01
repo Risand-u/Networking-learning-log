@@ -202,4 +202,4 @@ Stage 2 topics:
 
 ---
 Next Topic: Day 7 — Static and Dynamic Routing
-Previous Topic: Day 5 — DNS
+
