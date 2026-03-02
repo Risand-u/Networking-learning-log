@@ -110,15 +110,6 @@ Route     = path data takes to reach destination
 
 ---
 
-## Struggles Today
-- Learning difference between static and dynamic
-- Understanding when to use each type
-
----
-
-## Tomorrow
-Continue building 3 router network
-Configure static routes first
 Then configure OSPF dynamic routing
 
 ---
