@@ -187,6 +187,4 @@ Router on stick  = one cable handles all VLANs
 - Understanding subinterfaces concept
   
 
----
-
 
