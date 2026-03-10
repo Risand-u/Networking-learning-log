@@ -1,4 +1,4 @@
-# Day 10 — Inter-VLAN Routing
+# Day 9 — Inter-VLAN Routing
 Date: March 05, 2026
 Topic: Inter-VLAN Routing (Router on a Stick)
 Stage: Stage 2 — Intermediate
