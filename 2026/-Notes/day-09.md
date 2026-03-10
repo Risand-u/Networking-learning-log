@@ -1,5 +1,5 @@
 # Day 9 — Inter-VLAN Routing
-Date: March 05, 2026
+Date: March 10, 2026
 Topic: Inter-VLAN Routing (Router on a Stick)
 Stage: Stage 2 — Intermediate
 Status: ✅ Completed
