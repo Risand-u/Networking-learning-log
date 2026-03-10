@@ -5,7 +5,6 @@ Stage: Stage 2 — Intermediate
 Status: 📖 Currently Learning
 
 ---
-
 ## What I Did Today
 - Learned Inter-VLAN Routing theory
 - Understood difference between trunk and access ports
