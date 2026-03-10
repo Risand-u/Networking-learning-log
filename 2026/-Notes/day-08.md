@@ -184,9 +184,8 @@ Router on stick  = one cable handles all VLANs
 ## Struggles Today
 - Understanding difference between
   trunk and access ports
-
-  
 - Understanding subinterfaces concept
+  
 
 ---
 
