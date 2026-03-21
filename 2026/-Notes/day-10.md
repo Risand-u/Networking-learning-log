@@ -11,7 +11,7 @@ Status: ✅ Completed
 - Understood different types of NAT
 - Understood why NAT is used in real world
 - Will build NAT project in Packet Tracer next
-
+ 
 --- 
 
 ## What is NAT?
