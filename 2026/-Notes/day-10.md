@@ -4,7 +4,7 @@ Topic: NAT - Network Address Translation
 Stage: Stage 2 — Intermediate
 Status: ✅ Completed
 
----
+--- 
 
 ## What I Did Today
 - Learned full NAT theory
