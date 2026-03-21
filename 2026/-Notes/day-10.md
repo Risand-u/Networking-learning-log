@@ -2,7 +2,7 @@
 Date: March 21, 2026
 Topic: NAT - Network Address Translation
 Stage: Stage 2 — Intermediate
-
+Status: ✅ Completed
 
 ---
 
