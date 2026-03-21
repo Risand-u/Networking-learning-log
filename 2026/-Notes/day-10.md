@@ -12,7 +12,7 @@ Status: ✅ Completed
 - Understood why NAT is used in real world
 - Will build NAT project in Packet Tracer next
 
----
+--- 
 
 ## What is NAT?
 NAT stands for Network Address Translation.
