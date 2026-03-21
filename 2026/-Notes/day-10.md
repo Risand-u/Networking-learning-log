@@ -7,7 +7,7 @@ Status: ✅ Completed
 --- 
 
 ## What I Did Today
-- Learned full NAT theory
+- Learned full NAT theory 
 - Understood different types of NAT
 - Understood why NAT is used in real world
 - Will build NAT project in Packet Tracer next
